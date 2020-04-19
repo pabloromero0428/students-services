@@ -53,7 +53,7 @@ Se realiza una petición PUT a la url https://servicestudent.herokuapp.com/api/s
 
 ```
 {
-	 "numdocument": "1205",
+   "numdocument": "1205",
    "name": "Juancito",
    "lastname": "Estrada",
    "age": "35",
