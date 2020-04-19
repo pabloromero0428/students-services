@@ -12,4 +12,16 @@ Este comando arraca la aplicación y si se realiza un cambio en el codigo se deb
 
 Este comando arraca la aplicación y si se realiza un cambio en el codigo se vera reflejado indemediatamente pues se esta utilizando la libreria nodemon que reinicia el server automaticamente cuando detecta un cambio
 
-##¿Como consumir el api? 
+## ¿Como consumir el api? 
+
+### Crear estudiante
+
+Se realiza una peticion POST a la url https://servicestudent.herokuapp.com/api/students y enviando en el cuerpo de la petición el siguiente json:
+
+`
+"numdocument": "1202",
+    "name": "Juancito",
+    "lastname": "Estrada",
+    "age": "35",
+    "note": "3"
+    `
