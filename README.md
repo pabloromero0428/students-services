@@ -11,3 +11,5 @@ Este comando arraca la aplicación y si se realiza un cambio en el codigo se deb
 > nmp dev 
 
 Este comando arraca la aplicación y si se realiza un cambio en el codigo se vera reflejado indemediatamente pues se esta utilizando la libreria nodemon que reinicia el server automaticamente cuando detecta un cambio
+
+##¿Como consumir el api? 
