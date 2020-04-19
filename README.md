@@ -5,7 +5,9 @@ Es aplicacion es una api rest creada con las tecnologías node.js utilizando exp
 Si la aplicación se correra de manera local puede hacerlo de dos formas
 
 > npm star 
+
 Este comando arraca la aplicación y si se realiza un cambio en el codigo se debera reiniciar la aplicación para ver el cambio reflejado
 
 > nmp dev 
+
 Este comando arraca la aplicación y si se realiza un cambio en el codigo se vera reflejado indemediatamente pues se esta utilizando la libreria nodemon que reinicia el server automaticamente cuando detecta un cambio
